@@ -221,6 +221,11 @@ footer {
     padding: 1% 1% 1% 0%;
   }
 
+  nav ul {
+    padding-top: 0%;
+    padding-bottom: 2%;
+  }
+
   nav li a {
     padding-left: 18px;
     padding-right: 18px;
@@ -242,8 +247,12 @@ footer {
     height: 399px;
   }
 
-  nav ul {
-    padding-top: 0%;
-    padding-bottom: 2%;
+  .container {
+    margin-left: 12%;
+  }
+
+  .container img {
+    width: 450px;
+    height: 300px;
   }
 }
